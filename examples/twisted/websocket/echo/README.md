@@ -27,3 +27,19 @@ To run the Python client
 or
 
     python client_coroutines.py
+
+
+
+# yuben75
+
+    virtualenv -p python3.5 py35env
+
+    source py35env/bin/activate
+
+## pip install autobahn[twisted,encryption,serialization,xbr] 
+
+    pip install autobahn[twisted]
+
+
+
+
